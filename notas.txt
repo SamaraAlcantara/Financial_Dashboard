@@ -1,0 +1,4 @@
+Instalação da lib: pip install virtualenv
+Criação do ambiente: python -m venv meu_ambiente_virtual
+Para Windows, utilize o comando para ativar: meu_ambiente_virtual\Scripts\activate
+Para Windows, utilize o comando para desativar: deactivate
